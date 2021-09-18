@@ -5,9 +5,7 @@ function App() {
 
 
 
-  const yeet = () => {
-    
-  }
+  
   return (
     <div className="App">
       <header className="App-header">
